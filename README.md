@@ -1,6 +1,8 @@
 # 📊 Student Academic Performance - Exploratory Data Analysis (EDA)
 
 This project analyzes a simulated dataset of student academic performance to uncover patterns, identify potential predictors of success, and guide future interventions in education.
+[Watch Video Walkthrough](https://www.loom.com/share/50f776c238ee42d4afbbfe9cd702b49b?sid=9f5f8152-267d-485a-9cbd-378fbdda91b6)
+
 
 ---
 
